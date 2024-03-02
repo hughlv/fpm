@@ -1,3 +1,3 @@
-![](./assets/images/logo.png)
+![](./docs/assets/images/logo.png)
 
 # FPM: Funding-Productivity Model
