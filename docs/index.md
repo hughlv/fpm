@@ -2,6 +2,8 @@
 
 # FPM: Funding-Productivity Model
 
+[简体中文](./index_CN.md)
+
 The FPM is a model that relates funding to productivity. It is a simple model that can be used to understand the relationship between funding and company productivity. The model is based on the idea that funding is a key driver of productivity, and that the relationship between the two is not linear. Instead, the relationship is likely to be non-linear, with diminishing returns to funding. This means that as funding increases, the increase in productivity will eventually start to level off.
 
 ## Background
